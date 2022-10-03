@@ -8,4 +8,4 @@ Here are some explanations about the files:
                       The dialog act number represents: { 1: inform，2: question, 3: directive, 4: commissive }
 4) dialogues_emotion.txt: Each line in dialogues_emotion.txt corresponds to the emotion annotations in dialogues_text.txt.
                           The emotion number represents: { 0: no emotion, 1: anger, 2: disgust, 3: fear, 4: happiness, 5: sadness, 6: surprise}
-5) train.zip, validation.zip and test.zip are two different segmentations of the whole dataset. 
+
